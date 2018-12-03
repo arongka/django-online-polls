@@ -18,4 +18,5 @@ Recap for myself:
 11. apply the migrations $py manage.py sqlmigrate polls 0001
 12. update models to help with using the free API by django 
 13. learn to use the api using the interactive python shell
+14. set the admin up ($py manage.py createsuperuser) and register the models to admin.py
  
