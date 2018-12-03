@@ -1,5 +1,5 @@
-## django-online-polls
-*******************************************************
+# django-online-polls
+
 The official tutorial project of django is really awesome! 
 Tutorial link: https://docs.djangoproject.com/en/2.1/intro/tutorial01/
 
@@ -19,4 +19,5 @@ Recap for myself:
 12. update models to help with using the free API by django 
 13. learn to use the api using the interactive python shell
 14. set the admin up ($py manage.py createsuperuser) and register the models to admin.py
+15. create view functions, add html templates for them and configure their urls
  
