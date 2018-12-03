@@ -16,4 +16,6 @@ Recap for myself:
 9. create the models and add app to installed apps in the project's settings.py file  
 10. create migrations for the newly added models by $py manage.py makemigrations polls
 11. apply the migrations $py manage.py sqlmigrate polls 0001
+12. update models to help with using the free API by django 
+13. learn to use the api using the interactive python shell
  
